@@ -1,2 +1,2 @@
 # Uber-Clone
-This is a Uber Clone made using HTML and CSS
+This is a Responsive Uber Clone made using HTML and CSS
